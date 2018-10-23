@@ -1,5 +1,5 @@
 # MyReposityName1
-gitHub详解
+gitHub详解s
 
 ##修改文件
 
